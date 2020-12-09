@@ -1,0 +1,9 @@
+C:\Users\cofee\source\repos\OOP3\Fraction\bin\Debug\netstandard2.0\FractionLib.deps.json
+C:\Users\cofee\source\repos\OOP3\Fraction\bin\Debug\netstandard2.0\FractionLib.dll
+C:\Users\cofee\source\repos\OOP3\Fraction\bin\Debug\netstandard2.0\FractionLib.pdb
+C:\Users\cofee\source\repos\OOP3\Fraction\obj\Debug\netstandard2.0\FractionLib.csprojAssemblyReference.cache
+C:\Users\cofee\source\repos\OOP3\Fraction\obj\Debug\netstandard2.0\FractionLib.AssemblyInfoInputs.cache
+C:\Users\cofee\source\repos\OOP3\Fraction\obj\Debug\netstandard2.0\FractionLib.AssemblyInfo.cs
+C:\Users\cofee\source\repos\OOP3\Fraction\obj\Debug\netstandard2.0\FractionLib.csproj.CoreCompileInputs.cache
+C:\Users\cofee\source\repos\OOP3\Fraction\obj\Debug\netstandard2.0\FractionLib.dll
+C:\Users\cofee\source\repos\OOP3\Fraction\obj\Debug\netstandard2.0\FractionLib.pdb
